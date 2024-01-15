@@ -1,1 +1,1 @@
-A Mini calculator full by java.
+A program to manager student full by java.
